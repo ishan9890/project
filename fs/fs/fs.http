@@ -1,0 +1,6 @@
+@fs_HostAddress = http://localhost:5012
+
+GET {{fs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
